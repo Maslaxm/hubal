@@ -1,0 +1,6 @@
+{
+  "name": "Hubaal Academy",
+  "description": "Student portal for Hubaal Academy to check academic results and graduation status using roll numbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
